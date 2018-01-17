@@ -11,6 +11,7 @@ Use it as a `Visual Studio Code` snippet extension
 
 
 `rnc`
+
 ```javascript
 import React, { Component } from 'react';
 import {
@@ -53,6 +54,7 @@ const styles = StyleSheet.create({
 ```
 
 `rnrc`
+
 ```javascript
 import React, { Component } from 'react';
 import {
@@ -101,6 +103,7 @@ const styles = StyleSheet.create({
 ```
 
 `rnrd`
+
 ```javascript
 import { fromJS } from 'immutable';
 
