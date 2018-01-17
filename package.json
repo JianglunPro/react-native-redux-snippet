@@ -1,0 +1,26 @@
+{
+    "name": "react-native-redux-snippet",
+    "displayName": "react-native-redux-snippet",
+    "description": "snippet for react-native with redux",
+    "version": "1.0.0",
+    "publisher": "JiangLun",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JianglunPro/react-native-redux-snippet"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
