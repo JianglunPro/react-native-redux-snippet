@@ -1,5 +1,4 @@
-
-`react-native-redux-snippet` is a file template for team development
+Welcome, `react-native-redux-snippet` is a file template for team development
 
 Use it as a `Visual Studio Code` snippet extension
 

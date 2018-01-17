@@ -2,7 +2,7 @@
     "name": "react-native-redux-snippet",
     "displayName": "react-native-redux-snippet",
     "description": "snippet for react-native with redux",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Jianglun",
     "engines": {
         "vscode": "^1.19.0"
