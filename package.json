@@ -3,7 +3,7 @@
     "displayName": "react-native-redux-snippet",
     "description": "snippet for react-native with redux",
     "version": "1.0.0",
-    "publisher": "JiangLun",
+    "publisher": "Jianglun",
     "engines": {
         "vscode": "^1.19.0"
     },
