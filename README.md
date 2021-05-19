@@ -1,3 +1,5 @@
+尝试写了一个 VSCode 代码片段插件，目的是接触一下 VSCode 的插件系统和尝试统一团队代码风格。
+
 Welcome, `react-native-redux-snippet` is a file template for team development
 
 Use it as a `Visual Studio Code` snippet extension
